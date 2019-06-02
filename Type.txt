@@ -1,3 +1,6 @@
 Standard
 Infra
 Collab
+High 
+Medium
+Low
